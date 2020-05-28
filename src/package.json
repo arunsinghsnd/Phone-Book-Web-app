@@ -1,0 +1,16 @@
+{
+  "name": "phone-book-web-app",
+  "version": "1.0.0",
+  "description": "Phone Book Web App developed with MEAN Stack",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "body-parser": "^1.10.2",
+    "express": "^4.17.1",
+    "mongojs": "^0.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
